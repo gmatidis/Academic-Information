@@ -1,0 +1,1 @@
+The "mies-master" folder includes the python source code of the application MIES (Medical Images Export System), which is a database-driven application for retrieving DICOM files from PACS, anonymizing them and forwarding them to the researchers to use for their studies. 
